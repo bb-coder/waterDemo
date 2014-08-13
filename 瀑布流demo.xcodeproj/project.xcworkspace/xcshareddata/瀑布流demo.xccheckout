@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B0EB8BC4-E0C0-4338-B46C-E28742AC9E17</string>
+	<key>IDESourceControlProjectName</key>
+	<string>瀑布流demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A7437F69-5AFA-445E-9B71-8E9E5E7060AB</key>
+		<string>https://github.com/bb-coder/waterDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>瀑布流demo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A7437F69-5AFA-445E-9B71-8E9E5E7060AB</key>
+		<string>../..</string>
+		<key>F7077B34-E09D-49B5-B9C9-947F84CD078D</key>
+		<string>../../瀑布流demo</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bb-coder/waterDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A7437F69-5AFA-445E-9B71-8E9E5E7060AB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F7077B34-E09D-49B5-B9C9-947F84CD078D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>瀑布流demo</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A7437F69-5AFA-445E-9B71-8E9E5E7060AB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>waterDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
